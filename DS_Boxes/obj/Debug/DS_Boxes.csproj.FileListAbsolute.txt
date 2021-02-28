@@ -1,0 +1,6 @@
+C:\Users\97253\source\repos\DS_Boxes\bin\Debug\DS_Boxes.dll
+C:\Users\97253\source\repos\DS_Boxes\bin\Debug\DS_Boxes.pdb
+C:\Users\97253\source\repos\DS_Boxes\obj\Debug\DS_Boxes.csproj.CoreCompileInputs.cache
+C:\Users\97253\source\repos\DS_Boxes\obj\Debug\DS_Boxes.dll
+C:\Users\97253\source\repos\DS_Boxes\obj\Debug\DS_Boxes.pdb
+C:\Users\97253\source\repos\DS_Boxes\obj\Debug\DS_Boxes.csprojAssemblyReference.cache
